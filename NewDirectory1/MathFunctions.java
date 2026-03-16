@@ -10,4 +10,10 @@ public class MathFunctions {
         }
         return max;
     }
+
+
+    public int CalculateMin(int[] values) {
+       
+    }
+
 }
