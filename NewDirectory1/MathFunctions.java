@@ -1,4 +1,4 @@
-public class Max {
+public class MathFunctions {
 
     public int CalculateMax(int[] values) {
        int max = values[0];
