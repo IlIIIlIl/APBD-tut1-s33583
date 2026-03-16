@@ -1,14 +1,14 @@
 public class MathFunctions {
 
     public int CalculateMax(int[] values) {
-       int max = values[0];
+       int maximilian = values[0];
 
         for (int i = 1; i < values.length; i++) {
-            if (values[i] > max) {
-                max = values[i];
+            if (values[i] > maximillian) {
+                maximillian = values[i];
             }
         }
-        return max;
+        return maximillian;
     }
 
 
