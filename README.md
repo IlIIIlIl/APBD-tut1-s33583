@@ -5,7 +5,22 @@ APBD-tut1-s33583
 Task 5 note:
 
 
+
 This was not a fast-forward merge because the branches had diverged
+
+
+
+
+
+
+
+Answers to the questions at the end:
+
+1. Fast forward is for cases when the destination branch has no new commits. Merge is used when the branches diverge
+
+2. Merge preserves the actual history as it is, and rebase makes the history look linear
+
+3. I deleted the markers and chose the option from the main branch. That being changing the name to maximilian
 
 
 
